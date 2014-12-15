@@ -1,0 +1,6 @@
+aList = ['Hello', 'World', '!!!']
+
+for i in aList:
+    print i,
+
+        
